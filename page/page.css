@@ -1,0 +1,7 @@
+.page {
+  max-width: 1080px;
+  max-height: 9500px;
+  margin: 0 auto;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  box-sizing: border-box;
+}
